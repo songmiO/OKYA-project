@@ -3,14 +3,14 @@ import styled from 'styled-components';
 import { BiRightArrowAlt } from 'react-icons/bi';
 
 const OrderDetail = ({ cartItems }) => {
-  const totalPrice = cartItems => {
-    return cartItems
-      .map(cartItem => {
-        const { price, quantity } = cartItem;
-        return price * quantity;
-      })
-      .reduce((l, r) => l + r, 0);
-  };
+  // const totalPrice = cartItems => {
+  //   return cartItems
+  //     .map(cartItem => {
+  //       const { price, quantity } = cartItem;
+  //       return price * quantity;
+  //     })
+  //     .reduce((l, r) => l + r, 0);
+  // };
 
   return (
     <>
@@ -23,10 +23,10 @@ const OrderDetail = ({ cartItems }) => {
             불가할 수 있습니다
           </p>
         </OrderDesc>
-        <TotalPrice>
+        {/* <TotalPrice>
           <p>총 주문금액</p>
           <p>₩ {totalPrice}</p>
-        </TotalPrice>
+        </TotalPrice> */}
       </OrderDetails>
       <OrderButton>
         <p>결제하기</p>
@@ -60,20 +60,20 @@ const OrderDesc = styled.div`
   }
 `;
 
-const TotalPrice = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+// const TotalPrice = styled.div`
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
 
-  p:first-child {
-    font-weight: 500;
-  }
+//   p:first-child {
+//     font-weight: 500;
+//   }
 
-  p:last-child {
-    font-size: 22px;
-    font-weight: 700;
-  }
-`;
+//   p:last-child {
+//     font-size: 22px;
+//     font-weight: 700;
+//   }
+// `;
 
 const OrderButton = styled.button`
   display: flex;
