@@ -1,4 +1,4 @@
-# OKYA Front-end소개
+# OKYA project
 
 <p align="center">
 <img src="https://i.postimg.cc/rpYH4DT8/OKYA.jpg" alt="OKYA_IMAGE" />
