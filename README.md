@@ -1,4 +1,5 @@
-# OKYA project!
+# OKYA project
+## Front-end 
 
 <p align="center">
 <img src="https://i.postimg.cc/rpYH4DT8/OKYA.jpg" alt="OKYA_IMAGE" />
