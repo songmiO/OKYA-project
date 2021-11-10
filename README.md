@@ -39,8 +39,6 @@ FrontEnd
 
 ## 🛠 Tool
 
----
-
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></a>
@@ -64,8 +62,6 @@ FrontEnd
 
 
 ## 🌐 Reference
-
----
 
 - 이 프로젝트는 이케아 사이트를 참조하여 학습목적으로 만들었습니다. 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 - 이 프로젝트에서 사용하고 있는 사진과 동영상은 unsplash에서 공유받은 Free 이미지 및 동영상이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
