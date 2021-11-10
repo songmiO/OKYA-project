@@ -11,21 +11,16 @@
 
 ## 💁🏻‍♂️ 💁🏻‍♀️ 팀원
 
----
-
 - [최민기](https://github.com/samankey)
 - [김민성](https://github.com/Minseongkimm)
 - [오송미](https://github.com/songmiO)
 
 ## 📅 프로젝트 기간
 
----
-
 2021.07.26 ~ 2021.08.10 (16일)
 
-## 🔑 Skills
+## �⚒️ Skills
 
----
 
 <br/>
 <p align="center">
