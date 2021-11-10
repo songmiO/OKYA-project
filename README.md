@@ -68,7 +68,7 @@ FrontEnd
 - 상품 정보를 장바구니 버튼 클릭 시, 장바구니 페이지에 넘겨 주기 위해 **fetch 내 백엔드API를 받아옴**
 
 
-## Reference
+## 🌐 Reference
 
 ---
 
