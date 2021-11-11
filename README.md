@@ -48,7 +48,7 @@ FrontEnd
 <br/>
 <br/>
 
-## 👩🏻‍💻 구현 부분
+## 👩🏻‍💻 [구현 부분](https://velog.io/@wonderchip/OKYA)
 
 
 ### 상품 리스트 페이지
